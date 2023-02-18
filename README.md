@@ -1,5 +1,12 @@
 ### Hey, friends 👋🙂
 
+I'm Carl, a web and app developer who likes to create and share some of the things I make. I'm probably most active on twitter, but I also blog and sometimes livestream. You can find my links below, I hope you will reach out if I can help.
+
+Be excellent to each other 🙂
+
+ - https://twitter.com/carlcod_es
+ - https://carlcod.es
+ 
 <!--
 **CarlSargunar/CarlSargunar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
